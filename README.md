@@ -6,7 +6,11 @@
 - 🔭 I’m currently working on **Smart Attendance System (Machine Learning)**
 
 - 💬 Ask me about **Flutter, C++, Java, Object Oriented Programming**
-
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; From Computer Science & Engineering background in BSc and ICT in MSc
+- 💼 &nbsp; Inflack Limited
+- 🌱 &nbsp; Learning more about Embedded System, Big Data, Face Detection & Recognition, Machine Learning Kit and Tensorflow.
+- ✍️ &nbsp; R&D with Sales force solution and Machine learning kit for mobile application.
 - 📫 How to reach me **asmfahim1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
